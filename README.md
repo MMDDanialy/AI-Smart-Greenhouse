@@ -28,6 +28,8 @@ It also features a **camera module for plant health detection** and allows remot
 
 ## **Research Paper**  
 [📄 Click here to read the full research paper (PDF)](https://github.com/MMDDanialy/AI-Smart-Greenhouse/blob/04c6ee79adf1a0cd46659dfab69bde633c17da3b/smart%20greenhouse.pdf)  
+## Read More  
+Check out the full article on Medium: [AI-Powered Smart Greenhouse](https://medium.com/@m.daniali100/ai-powered-smart-greenhouse-a-step-towards-the-future-of-agriculture-2d3425528a3e)
 
 ## **Installation**  
 1. Clone this repository:  
