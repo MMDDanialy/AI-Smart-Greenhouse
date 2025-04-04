@@ -27,7 +27,7 @@ It also features a **camera module for plant health detection** and allows remot
 4. The user can **monitor & control the greenhouse remotely**.  
 
 ## **Research Paper**  
-[📄 Click here to read the full research paper (PDF)](https://github.com/MMDDanialy/AI-Smart-Greenhouse/tree/main)  
+[📄 Click here to read the full research paper (PDF)](https://github.com/MMDDanialy/AI-Smart-Greenhouse/blob/04c6ee79adf1a0cd46659dfab69bde633c17da3b/smart%20greenhouse.pdf)  
 
 ## **Installation**  
 1. Clone this repository:  
